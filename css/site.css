@@ -1,0 +1,82 @@
+/* Bio */
+
+
+.bio {
+  font-size: 16px;
+  text-align:center;
+  background-color: #298FC2;
+  color: white;
+}
+
+.bio-text {
+  font-size: 16px;
+  text-align:justify;
+  background-color: black;
+  color: white;
+}
+
+.bio-bold {
+	color: #298FC2;
+}
+
+/* Iatreio */
+
+.iatreio-section {
+    padding-top: 50px;
+    
+}
+
+
+
+.iatreio-text {
+  font-size: 16px;
+  text-align:center;
+  background-color: black;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.iatreio-details {
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  margin-bottom: 20px;
+}
+
+/* Services */
+
+.services {
+  padding: 50px 0;
+  color: #ffffff;
+}
+
+.service-item {
+  margin-bottom: 20px;
+}
+
+i.service-icon {
+  color: #298FC2;
+  border: 3px solid #298FC2;
+  border-radius: 50%;
+  display: inline-block;
+  font-size: 56px;
+  width: 140px;
+  height: 140px;
+  line-height: 136px;
+  vertical-align: middle; 
+  text-align: center;
+}
+
+/* Portfolio */
+
+.portfolio {
+  padding: 50px 0;
+}
+
+.portfolio-item {
+  margin-bottom: 25px;
+}
+
+.img-portfolio {
+  margin: 0 auto;
+}
