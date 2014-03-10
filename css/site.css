@@ -22,25 +22,16 @@
 /* Iatreio */
 
 .iatreio-section {
-    padding-top: 50px;
-    
+    padding-top: 80px;
+
 }
 
-
-
-.iatreio-text {
-  font-size: 16px;
-  text-align:center;
-  background-color: black;
-  color: white;
-  margin-bottom: 20px;
-}
 
 .iatreio-details {
   font-size: 18px;
   background-color: black;
   color: white;
-  margin-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 /* Services */
